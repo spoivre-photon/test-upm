@@ -2,15 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TestClass2 : MonoBehaviour
+public class TestClass3 : MonoBehaviour
 {
     private void Awake()
     {
-        Debug.LogError("Test class2 ok");
+        Debug.LogError("Test class3 ok");
     }
 
     public static void StaticTest()
     {
-        Debug.LogError("TestClass2.StaticTest ok");
+        Debug.LogError("TestClass3.StaticTest ok");
     }
 }
