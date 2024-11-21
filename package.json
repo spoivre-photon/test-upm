@@ -7,6 +7,5 @@
         "url": "https://www.photonengine.com/"
     },
     "dependencies": {
-        "https://github.com/icaro56/simple-atoms-so.git#upm":"1.0.0"
     }
 }
