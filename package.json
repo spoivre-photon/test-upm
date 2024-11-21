@@ -1,12 +1,11 @@
 {
     "name": "com.exitgames.testpackage",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "displayName": "Photon Test Package",
     "author": {
         "name": "Photon",
         "url": "https://www.photonengine.com/"
     },
     "dependencies": {
-        "com.jbooth.better-shaders":"1.0.0"
     }
 }
